@@ -4,7 +4,7 @@
 </div>
 
 Ro'ya is an Arabic word that means vision to indicate the focus of our community on computer vision datasets, methods and applications that impact our African communities. This github repository collects all the resources that we are building as part of this community including: project codes, handson practicals and tutorials, presentations, links to recorded talks and reading group sessions. If you are interested in becoming a member please join the [slack](
-https://join.slack.com/t/cv4africa/shared_invite/zt-1i7usvl9j-q9KZrmj~1~_a6HA4yL0CWA) and fill in this membership [form](https://forms.gle/XZxVC6LQ1N5sMPnS7) to help us understand what are you interested to contribute to. You can also join our reading group:
+https://join.slack.com/t/cv4africa/shared_invite/zt-1i7usvl9j-q9KZrmj~1~_a6HA4yL0CWA). You can also join our reading group:
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MmpkcmJvdXNoYnE2YTM1YWVhYjF1Z2lvam4gcm95YS5jdjRhZnJpY2FAbQ&amp;tmsrc=roya.cv4africa%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 Check the full calender for the events/meetings [here](https://calendar.google.com/calendar/u/2?cid=cm95YS5jdjRhZnJpY2FAZ21haWwuY29t).
