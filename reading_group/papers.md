@@ -1,6 +1,6 @@
 # Study/Reading Materials
 
-## Few-shot/Meta-Learning:
+## Few-shot & Meta-Learning:
 
 * Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning 
 [Tutorial](https://sites.google.com/view/icml19metalearning)
@@ -24,7 +24,7 @@
 [Paper](https://arxiv.org/abs/2104.01538) [Recording](https://drive.google.com/file/d/1Brf8b38RdFSwI6DE168zWD-lnpF727lM/view?usp=sharing)
 
 ## Distribution Shift
-* Wild-Time: A Benchmark of in-the-wild Distribution Shift Over Time [Paper](https://arxiv.org/pdf/2211.14238.pdf) [Recording](https://drive.google.com/file/d/1QCaeExMHCDBHLjDZgXcufmeelNlHZ5JB/view?usp=sharing)
+  * Wild-Time: A Benchmark of in-the-wild Distribution Shift Over Time [Paper](https://arxiv.org/pdf/2211.14238.pdf) [Recording](https://drive.google.com/file/d/1QCaeExMHCDBHLjDZgXcufmeelNlHZ5JB/view?usp=sharing)
 
 ## Transformers and ViTs:
 * Introduction to Transformers from here: 
