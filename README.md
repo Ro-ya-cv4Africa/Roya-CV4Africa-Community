@@ -35,7 +35,7 @@ We inspire from other AI grassroots such as [Masakhane](https://github.com/masak
 
 # Goals
 
-* **For Africa**: To build and facilitate a community of Computer Vision researchers, connect and grow it, spurring and sharing further research, build helpful tools for applications in government, medicine, agriculture, science and education, to benefit our African communities. We aspire to have a computer vision community with members from every African country and help establish diverse goals that serves the whole continent without bias to certain areas.
+* **For Africa**: To build and facilitate a community of Computer Vision researchers, connect and grow it, spurring and sharing further research, build helpful tools for applications in medicine, agriculture, science and education, to benefit our African communities. We aspire to have a computer vision community with members from every African country and help establish diverse goals that serves the whole continent without bias to certain areas.
 * **For CV Research**: To build data sets and tools to facilitate CV research for Africa, and to decolonize the current Computer Vision research that is mostly focused on Big Tech companies and developed countries goals instead of our needs.
 
 # Progress
