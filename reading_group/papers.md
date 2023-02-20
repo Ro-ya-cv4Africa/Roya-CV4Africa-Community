@@ -23,6 +23,8 @@
 * Hypercorrelation Squeeze for Few-Shot Segmentation
 [Paper](https://arxiv.org/abs/2104.01538) [Recording](https://drive.google.com/file/d/1Brf8b38RdFSwI6DE168zWD-lnpF727lM/view?usp=sharing)
 
+* Fewshot Object Segmentation Roadmap [Slides](https://drive.google.com/file/d/1T9zfM4S4TvYGxzgFSeIEmC8r1Vniw6mv/view?usp=sharing) [Recording](https://drive.google.com/file/d/1z-sqcvPKaur_6se9wygUjGWOzNnuLLkl/view?usp=sharing)
+
 ## Distribution Shift
   * Wild-Time: A Benchmark of in-the-wild Distribution Shift Over Time [Paper](https://arxiv.org/pdf/2211.14238.pdf) [Recording](https://drive.google.com/file/d/1QCaeExMHCDBHLjDZgXcufmeelNlHZ5JB/view?usp=sharing)
 
