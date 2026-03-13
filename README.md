@@ -6,7 +6,7 @@ https://join.slack.com/t/cv4africa/shared_invite/zt-1i7usvl9j-q9KZrmj~1~_a6HA4yL
 
 Check the full calender for the events/meetings [here](https://calendar.google.com/calendar/u/2?cid=cm95YS5jdjRhZnJpY2FAZ21haWwuY29t).
 
-*Thanks to the calligraphy artist that helped create the Ro'ya word in the shape of Africa.*
+*Thanks to Ismaila and the calligraphy artist that helped create our logo.*
 
 # Our Mission
 
